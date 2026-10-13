@@ -15,7 +15,7 @@
             <ColumnDefinition Width="7*"/>
             <ColumnDefinition Width="3*"/>
         </Grid.ColumnDefinitions>
-        <StackPanel Background="#FFD6D1D6" HorizontalAlignment="Center" Width="520" Margin="0,10,0,0">
+        <StackPanel Background="#FFD6D1D6" HorizontalAlignment="Center" Width="706">
             <StackPanel Height="36" Margin="5,5,5,5" Background="#FFD7EFEF" Orientation="Horizontal">
                 <Label Content="紅茶大杯" FontSize="14" VerticalContentAlignment="Center" Margin="20,0,0,0" Height="26" FontWeight="Bold" Foreground="brown"></Label>
                 <Label Content="60元" FontSize="14" VerticalContentAlignment="Center" Margin="20,0,0,0" Height="26" FontWeight="Bold" Foreground="DarkGreen"></Label>
